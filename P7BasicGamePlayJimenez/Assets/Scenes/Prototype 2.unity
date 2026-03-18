@@ -715,6 +715,9 @@ MonoBehaviour:
   - {fileID: 4104290126782849174, guid: 5f8042635a18b5b458d587cd82cc50a6, type: 3}
   - {fileID: 5202348012071526116, guid: 0f83d5cd97c149341bf804fd74f7e4c8, type: 3}
   - {fileID: 8631139244535578655, guid: 41eb773471c43c7468cfed415d12887a, type: 3}
+  sideSpawnMinZ: 0
+  sideSpawnMaxZ: 0
+  sideSpawnX: 0
 --- !u!1 &1590138454
 GameObject:
   m_ObjectHideFlags: 0
