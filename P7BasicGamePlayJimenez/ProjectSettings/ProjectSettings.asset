@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
+<<<<<<< HEAD
   productGUID: 63141392cd6cdfd40834921b6c24b90c
+=======
+  productGUID: babf14da4b5a2e349ab6a4c19ad13e22
+>>>>>>> fda9cbeb62b5c4d4521f2d83459329e05e845271
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -843,7 +847,11 @@ PlayerSettings:
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
   metroPackageName: P7BasicGamePlayJimenez
+<<<<<<< HEAD
   metroPackageVersion: 
+=======
+  metroPackageVersion: 1.0.0.0
+>>>>>>> fda9cbeb62b5c4d4521f2d83459329e05e845271
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -851,7 +859,11 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: P7BasicGamePlayJimenez
   wsaImages: {}
+<<<<<<< HEAD
   metroTileShortName: 
+=======
+  metroTileShortName: P7BasicGamePlayJimenez
+>>>>>>> fda9cbeb62b5c4d4521f2d83459329e05e845271
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0

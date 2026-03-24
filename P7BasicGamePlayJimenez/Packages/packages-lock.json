@@ -1,7 +1,11 @@
 {
   "dependencies": {
     "com.unity.ai.navigation": {
+<<<<<<< HEAD
       "version": "2.0.9",
+=======
+      "version": "2.0.11",
+>>>>>>> fda9cbeb62b5c4d4521f2d83459329e05e845271
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -20,7 +24,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.collab-proxy": {
+<<<<<<< HEAD
       "version": "2.11.4",
+=======
+      "version": "2.9.3",
+>>>>>>> fda9cbeb62b5c4d4521f2d83459329e05e845271
       "depth": 0,
       "source": "registry",
       "dependencies": {},
@@ -45,7 +53,11 @@
       "dependencies": {}
     },
     "com.unity.ide.rider": {
+<<<<<<< HEAD
       "version": "3.0.37",
+=======
+      "version": "3.0.39",
+>>>>>>> fda9cbeb62b5c4d4521f2d83459329e05e845271
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -54,11 +66,19 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.visualstudio": {
+<<<<<<< HEAD
       "version": "2.0.23",
       "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.test-framework": "1.1.9"
+=======
+      "version": "2.0.27",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.test-framework": "1.1.33"
+>>>>>>> fda9cbeb62b5c4d4521f2d83459329e05e845271
       },
       "url": "https://packages.unity.com"
     },
@@ -173,7 +193,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.timeline": {
+<<<<<<< HEAD
       "version": "1.8.9",
+=======
+      "version": "1.8.11",
+>>>>>>> fda9cbeb62b5c4d4521f2d83459329e05e845271
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -194,7 +218,11 @@
       }
     },
     "com.unity.visualscripting": {
+<<<<<<< HEAD
       "version": "1.9.7",
+=======
+      "version": "1.9.10",
+>>>>>>> fda9cbeb62b5c4d4521f2d83459329e05e845271
       "depth": 0,
       "source": "registry",
       "dependencies": {
